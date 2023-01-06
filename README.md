@@ -1,5 +1,5 @@
 # Reference
-Old repos brought back with pointers to new activity
+Old repos brought back with pointers to new activity.
 
 
 ## Currently relevant 
@@ -18,6 +18,11 @@ Old repos brought back with pointers to new activity
 ## Previous projects complete: 
 - https://github.com/HWTechClub/Custom-Static-Website-Generator (Custom Website Genertor -> Whatsapp bot and deploymeny to IPFS included.) 
   - https://github.com/HWTechClub/Custom-Static-Website-Generator-Docs (Docs for Custom Website Genertor)
+- https://github.com/internet-of-energy
+  - https://github.com/internet-of-energy/IOE_website (Main website)
+  - https://github.com/internet-of-energy/IOE_relays_api (Controlling relays programatically)
+  - https://github.com/internet-of-energy/Centralized_IOE (Dashboard style control for p2p enery trading) 
+  - https://github.com/internet-of-energy/IOE-electricity-cost (Cost decider module)
 - https://github.com/HWTechClub/nextjs-template (Next-js tutorial) 
 - https://github.com/HWTechClub/Next.js-Repo (Next-js tutorial)
 - https://github.com/HWTechClub/Benjamin-no-response-bot (Whatsapp bot golang) 
