@@ -13,4 +13,4 @@ Old repos brought back with pointers to new activity
 
 ## Old websites 
 - First main webpage: https://infallible-stonebraker-56eff1.netlify.app 
-  - Repo: https://github.com/HWTechClub/tech-club-website
+  - Repo: https://github.com/HWTechClub/hwtech.club-old
