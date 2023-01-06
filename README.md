@@ -7,7 +7,7 @@ Old repos brought back with pointers to new activity.
    - Repo: https://github.com/HWTechClub/hwtech.club
 - Blog page: https://sparkling-llama-d6bf4e.netlify.app/
   - Repo: https://github.com/HWTechClub/blogs.hwtech.club
-- Docs page: https://incredible-kitten-b7f326.netlify.app/general/echelon_members/ 
+- Docs page: https://incredible-kitten-b7f326.netlify.app/ 
   - Repo: https://github.com/HWTechClub/docs.hwtech.club
 
 
